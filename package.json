@@ -1,0 +1,22 @@
+{
+  "name": "bot-disc-ts",
+  "version": "1.0.0",
+  "description": "Bot discord",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build":"tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^20.11.19",
+    "dotenv": "^16.4.4",
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
