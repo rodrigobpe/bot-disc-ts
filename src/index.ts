@@ -1,7 +1,6 @@
 import 'dotenv/config'
 import { Client } from 'discord.js'
 import { useCommand } from './utils/use-commands'
-import { getChampionLore } from './commands/get-champion-lore'
 import { commandList } from './utils/command-list'
 
 
