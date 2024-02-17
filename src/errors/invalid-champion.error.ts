@@ -1,0 +1,1 @@
+export const invalidChampionError = "Você digitou o nome do campeão errado, tente novamente!"
